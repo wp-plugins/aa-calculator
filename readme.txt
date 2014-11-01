@@ -60,6 +60,7 @@ then paste this shortcode anywhere in your page to display this cash calculator.
 == Screenshots ==
 
 1. screenshot-1
+2. screenshot-2
 
 
 == Changelog ==
