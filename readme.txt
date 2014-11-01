@@ -13,7 +13,7 @@
 == Description ==
 
 
-It is a Custom Cash Calculator Made By AA Extension . You can use your shortcode like it [view_calculator page_id="your_page_id"]. Very simple to use. If you need to know anything then contact to us via email (contact2us.aa@gmail.com) . We are happily help you.
+It is a Custom Cash Calculator Made By AA Extension . You can use your shortcode like it [view_calculator page_id="your_page_id"]. Very simple to use. If you need to know anything then contact to us via email (contact2us.aa@gmail.com) . We are very happy to help you.
 
 
 ### AA Cash Calculator Plugin by http://webdesigncr3ator.com
