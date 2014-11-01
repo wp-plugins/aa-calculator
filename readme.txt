@@ -34,6 +34,11 @@ It is a Custom Cash Calculator Made By AA Extension . You can use your shortcode
 * Paid to you on settlement
 * YOUR RECEIVED MONEY
 
+<strong>Conditions:</strong><br />
+
+Here we use a custom rules . So if you need we can update the rules for your own use and make sure that your condition is used with a small cost for customization.
+
+
 
 
 
