@@ -38,7 +38,7 @@ It is a Custom Cash Calculator Made By AA Extension . You can use your shortcode
 and shortcode for you </strong> `[view_calculator page_id="your_page_id"] 
 `<br />
 
-then paste this shortcode anywhere in your page to display your custom condition<br />
+then paste this shortcode anywhere in your page to display this cash calculator.
 
 
 
