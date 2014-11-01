@@ -94,7 +94,7 @@ add_action( 'wp_enqueue_scripts', 'reg_script_and_style' );
 			echo '<div class="calculator-input-element"><p>Invoice discount amount : </p></div><div class="calculator-input-value">'.$each_day_discount_double.'</div>';
 			echo '<div class="clearSplit"></div>';
 			echo '<h5>What you will receive</h5>';
-			echo '<div class="calculator-input-element"><p>You are advanced upfront : </p></div><div class="calculator-input-value">'.$advanced_upfront.'</div>';
+			echo '<div class="calculator-input-element"><p>Your advanced upfront : </p></div><div class="calculator-input-value">'.$advanced_upfront.'</div>';
 			echo '<div class="calculator-input-element"><p>Paid to you on settlement : </p></div><div class="calculator-input-value">'.$upfront_paid.'</div>';
 			
 			echo '<div class="clearSplit"></div>';

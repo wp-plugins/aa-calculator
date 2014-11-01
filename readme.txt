@@ -8,7 +8,7 @@
 	License: GPLv2 or later
 	License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-	It is a Custom Cash Calculator Made By AA Extension . You can use your shortcode like it [view_calculator page_id="your_page_id"]. 
+	It is a Custom Cash Calculator Made By AA Extension.
 
 == Description ==
 
@@ -24,6 +24,17 @@ It is a Custom Cash Calculator Made By AA Extension . You can use your shortcode
 <strong>Plugin Features</strong><br />
 
 * Coming soon
+
+<strong>From this plugin you will get :</strong><br />
+
+* Invoice Total
+* Maximum Fee 
+* Invoice discount amount
+* Your advanced upfront
+* Paid to you on settlement
+* YOUR RECEIVED MONEY
+
+
 
 
 
