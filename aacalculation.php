@@ -3,7 +3,7 @@
 Plugin Name: AA calculation
 Plugin URI: http://wordpress.org/plugins/aa-cash-calculator/
 Description: It is a Custom Cash Calculator Made By AA Extension . You can use your shortcode like it [view_calculator page_id="your_page_id"]. 
-Author: A. Roy / A. Mahmud
+Author: aaextention
 Author URI: http://webdesigncr3ator.com
 Version: 1.0
 Support Email : contact2us.aa@gmail.com
