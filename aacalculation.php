@@ -1,15 +1,16 @@
 <?php 
+
 /**
-Plugin Name: AA calculation
-Plugin URI: http://wordpress.org/plugins/aa-cash-calculator/
-Description: It is a Custom Cash Calculator Made By AA Extension . You can use your shortcode like it [view_calculator page_id="your_page_id"]. 
-Author: aaextention
-Author URI: http://webdesigncr3ator.com
-Version: 1.0
-Support Email : contact2us.aa@gmail.com
-License: GPL2
-**/
-	
+ * Plugin Name: AA Cash Calculator
+ * Plugin URI: http://wordpress.org/plugins/aa-cash-calculator/
+ * Description: This is a cross browser supported audio player with playlist and shortcode enriched. This plugin is developed by Double A. For shortcode use [aaplayer src='http://yoursite.com/example.mp3'] , for playlist please read readme.txt . It is the in plugin folder.
+ * Version: 1.0
+ * Author: aaextention
+ * Author URI: http://webdesigncr3ator.com
+ * Support Email : contact2us.aa@gmail.com
+ * License: GPL2
+ **/
+
 //register script and style
 
 function reg_script_and_style() {
